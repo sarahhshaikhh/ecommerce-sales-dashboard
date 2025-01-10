@@ -17,7 +17,7 @@ In today’s competitive e-commerce landscape, making data-driven decisions is k
 __Prerequisites__ 
 - Power BI Desktop: Download the latest version.
 
-__Installation:-__
+__Installation__
 1. Clone the Repository:
 git clone https://github.com/your-username/ecommerce-sales-dashboard.git
 2. Open the File: Launch Power BI Desktop and open the E-commerce sales dashboard.pbix file.
