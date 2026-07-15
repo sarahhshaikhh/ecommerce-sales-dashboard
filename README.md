@@ -1,114 +1,131 @@
-# E-Commerce Sales Dashboard
+# E-Commerce Sales Performance Dashboard
 
-*A Business Intelligence dashboard built in Power BI to analyze sales performance, customer behavior, and product performance through interactive visualizations.*
+*A Business Intelligence dashboard built in Power BI to analyze sales performance, customer behavior, product trends, payment preferences, and regional performance.*
 
 ---
 
 # Overview
 
-Understanding sales performance is essential for improving profitability and making informed business decisions. E-commerce businesses generate large volumes of transactional data, making it difficult to identify trends without effective analytical tools.
+E-commerce businesses generate large volumes of transactional data across customers, products, locations, and payment channels. Transforming this data into meaningful business insights is essential for improving profitability and making informed decisions.
 
-This project presents an interactive **Power BI dashboard** that transforms raw sales data into meaningful business insights, enabling stakeholders to monitor performance, evaluate customer behavior, and identify growth opportunities.
+This project presents an interactive **Power BI dashboard** that provides a comprehensive view of sales performance through executive KPIs, customer analysis, regional sales, product performance, and profitability trends.
 
 ---
 
 # Business Problem
 
-E-commerce companies need to answer questions such as:
+Business stakeholders need quick answers to questions such as:
 
-- Which products generate the highest revenue?
-- Which regions contribute the most sales?
-- How do sales change over time?
-- Which customer segments drive business growth?
+- Which states generate the highest sales?
+- Which customers contribute the most revenue?
+- Which product categories perform the best?
+- What are customers' preferred payment methods?
+- How does profitability change throughout the year?
 
-Without a centralized dashboard, answering these questions requires significant manual analysis.
+Without a centralized dashboard, answering these questions requires extensive manual reporting.
 
-This dashboard provides an interactive solution for monitoring key business metrics and supporting data-driven decision-making.
+This dashboard enables faster, data-driven decision-making through interactive visualizations and dynamic filtering.
 
 ---
 
 # Project Highlights
 
-- Designed an interactive Power BI dashboard
-- Analyzed sales, customers, products, and regional performance
-- Developed DAX measures for KPI calculations
-- Created interactive filters and drill-down capabilities
-- Presented executive-level business insights
+- Developed an interactive **Power BI Business Intelligence Dashboard**
+- Created executive KPI cards using **DAX**
+- Analyzed customer, product, regional, and payment performance
+- Built interactive quarterly filtering for deeper analysis
+- Visualized monthly profitability trends for business monitoring
 
 ---
 
 # Dataset
 
-The dashboard analyzes an e-commerce sales dataset containing transactional information such as:
+The dashboard analyzes transactional e-commerce sales data containing:
 
+- Customer Information
 - Orders
-- Sales
+- Product Categories
+- Product Sub-Categories
+- Sales Amount
 - Profit
 - Quantity
-- Products
-- Categories
-- Customers
-- Regions
-- Order Dates
+- State
+- Payment Method
+- Order Date
 
 ---
 
 # Dashboard Overview
 
-## Sales Performance
+## Executive KPIs
 
-Monitor overall business performance through KPIs including:
+Monitor business performance through key metrics:
 
 - Total Sales
 - Total Profit
-- Total Orders
-- Average Order Value
-
-*(Insert Screenshot)*
+- Units Sold
+- Average Order Value (AOV)
 
 ---
 
-## Customer Analysis
+## Sales by State
 
-Analyze customer purchasing behavior through:
+Compare sales across different states to identify high-performing markets and regional opportunities.
 
-- Customer Segmentation
-- Purchase Trends
-- High-Value Customers
+---
 
-*(Insert Screenshot)*
+## Top Customers by Sales
+
+Identify customers generating the highest revenue and understand purchasing patterns.
 
 ---
 
 ## Product Performance
 
-Evaluate product performance using:
+Analyze product demand through:
 
-- Top Selling Products
-- Category Performance
-- Profit Contribution
-
-*(Insert Screenshot)*
+- Sales Distribution by Category
+- Top Product Sub-Categories by Sales
 
 ---
 
-## Regional Analysis
+## Payment Analysis
 
-Compare sales across different geographical regions to identify high-performing markets.
+Understand customer payment preferences across:
 
-*(Insert Screenshot)*
+- Cash on Delivery (COD)
+- UPI
+- Credit Card
+- Debit Card
+- EMI
+
+---
+
+## Monthly Profit Trend
+
+Track profitability throughout the year to identify seasonal trends and business performance over time.
+
+---
+
+# Dashboard Preview
+
+## E-Commerce Sales Performance Dashboard
+
+*(Add Dashboard Screenshot Here)*
 
 ---
 
 # Key Insights
 
-The dashboard enables users to:
+The dashboard enables businesses to:
 
-- Identify top-performing products and categories
-- Monitor regional sales performance
-- Track revenue and profitability trends
-- Analyze customer purchasing behavior
-- Support business decisions using interactive visualizations
+- Monitor sales and profitability in real time
+- Identify high-performing customers
+- Compare regional sales performance
+- Evaluate product category contribution
+- Understand customer payment preferences
+- Track monthly profit trends
+- Support strategic business decisions using interactive analytics
 
 ---
 
@@ -123,12 +140,6 @@ The dashboard enables users to:
 
 # Business Value
 
-This dashboard demonstrates how Business Intelligence can transform transactional sales data into actionable insights. By combining KPIs, interactive filtering, and visual analytics, it enables business users to monitor performance and make data-driven decisions more efficiently.
-
----
-
-# Dashboard Preview
-
-*(Insert Screenshot)*
+This dashboard demonstrates how Business Intelligence can transform transactional sales data into actionable insights. By combining executive KPIs with customer, regional, product, and payment analysis, it provides decision-makers with a centralized platform for monitoring business performance and identifying growth opportunities.
 
 ---
