@@ -111,7 +111,8 @@ Track profitability throughout the year to identify seasonal trends and business
 
 ## E-Commerce Sales Performance Dashboard
 
-*(Add Dashboard Screenshot Here)*
+<img width="1315" height="745" alt="image" src="https://github.com/user-attachments/assets/2e2c6237-59bd-4e7f-8af9-86c4e778aadb" />
+
 
 ---
 
